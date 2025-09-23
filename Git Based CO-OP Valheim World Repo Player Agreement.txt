@@ -1,0 +1,67 @@
+Git Based CO-OP Valheim World Repo Agreement
+
+Section A: Saving and loading Progress
+
+1. Necessary For All the Heads to Git Pull Before Starting the World, and Git Push After Finishing Playing. 
+
+# SAVE :
+
+>> git add .
+>> git commit -m "HH:MM Day Month Year - Username"
+>> git push
+
+# LOAD :
+>> git pull
+
+N.B 1.1: Not Pushing After Finishing your gameplay or not pulling before starting is not Anyone's Concern. You're responsible for the loss of your progress. 
+
+N.B 1.2: If One Forgets to ''pull'' the previous progress by another player and played the game for anytime, One's not allowed to Save his progress to the repo. One should start over by Pulling. 
+
+N.B 1.3: If one Forgets to Pull the previous progress by another player, and then forgets that one's not allowed to save progress until starting over and other players understand the issue. The Forgetful player's progress, must be deleted via particular Commands. 
+
+>> git reset --hard HEAD^
+
+N.B 1.4: It's Useful to Check the latest Repo modifications by Git Log to know about any recent changes. 
+
+2. While multiple players are online, they should join others sessions instead of Starting their own. 
+
+N.B 2.1: The priority Of joining a session is for the player/players who were playing in a particularly older session.
+
+N.B 2.2: For avoiding Any Conflicts, players should check Discord Staus of any running sessions and online players.
+
+N.B 2.3: Starting your Discord is Necessary for Avoiding conflicts, if for any reason you can't start your discord before beginning a session, you should notify all the players before Starting your session about the issue.
+
+N.B 2.4: Masters Of The Repo are Sina And Simon if you make Continuous mistakes and cause escalating repo conflicts, you'll lose access to the repo and for farther playing you should rely on Masters. 
+
+N.B 2.5: Not being Aware and Starting a session while others had started one is not accepted and the progress of that ignorant bitch player will be removed from the repo. 
+
+ Section B: Gameplay
+
+3. All Items, tamed creatures, and Elements in across all the old bases and new ones are shared; i.e HSH, Allegiance, Docks, Hopes, ALO, ETC. 
+
+N.B 3.1.1: Players are allowed to "modify anything for good", use resources to build and craft item unless they're told not to, only for items in Private chests or private bases. 
+     
+N.B 3.1.2: Players can be productive and helpful to each other by ful-filling any resources, Vehicles and creatures they drained drastically in the process of building, crafting or exploring.
+
+N.B 3.2: Players are allowed to misplace any Creatures, vehicles and such elements unless they're told not to, only for Private creatures, vehicles and such. 
+
+N.B 3.3: Grand Modifications for existing bases; i.e HSH, Docks, Hopes, Allegiance, ALO and ETC requires collaborative decision. Any none-collaborative attempts will be reset with particular git commands mentioned in N.B 1.3.
+
+4. Missions (New Boss Slaughter attempts) will only be done while all heads with Master access to the repo are online.
+
+N.B 4.1: Progress will be saved by either of the heads, with respect to N.B 2.1.
+
+N.B 4.2. Players must defend base raids and repair the damage caused by raiding before leaving the server. Base maintenance is highly needed, as unsolicited Elements will rot under rain condition, raiding and bases built in extreme location, i.e Ocean side and coastal lines, near villages, in Biome's borders and ETC.
+
+N.B 4.3. Players are allowed to discover any biomes and aquire resources and discover places and attempting any attributes i.e Any Caves, sanctums, and burial Chamber & ETC. Also players can perform deforestation, raiding and decimate villages and mining freely anywhere.
+
+Section C: Legal
+
+5. Suggesting Modifications, adding, removing new Principles and nota benes is possible but it will be decided by Headmasters; Sina & Simon.
+
+N.B 5.1: Interpretation and translation of the principles and nota benes are only decided by the creators Sina & Simon.
+
+N.B 5.2: The Principles and nota benes will regularly be updated along with the repo.
+
+
+FIN
